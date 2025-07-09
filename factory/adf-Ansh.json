@@ -1,0 +1,9 @@
+{
+	"name": "adf-Ansh",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "035a1fcb-f05c-44ee-adcc-e5577402ddc5",
+		"tenantId": "0d5a20bd-85a9-4ddc-a6a7-e579cc011200"
+	}
+}
